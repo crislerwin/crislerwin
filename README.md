@@ -10,6 +10,10 @@
   <img align="left" alt="crislerwin" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
+<a href="https://www.linkedin.com/in/crisler-wintler-550488202/">
+  <img align="left" alt="crislerwin" width="21px" src="https://th.bing.com/th/id/Rc3fcc390427d68b89647e834adf7fc87?rik=KjgxDpSgaFnXKA&pid=ImgRaw" />
+</a>
+
 <br />
 <br />
 
