@@ -44,7 +44,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crislerwin&layout=compact&theme=material-palenight" />
 </a>
 
-<a href="https://www.crisler.tech">
+<a href="https://github.com/crislerwin/crisler.tech">
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crislerwin&repo=crisler.tech&theme=material-palenight" />
 </a>
