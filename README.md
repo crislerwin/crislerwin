@@ -6,7 +6,7 @@
 <a href="https://twitter.com/">
   <img align="left" alt="Crisler Wintler | Twitter" width="21px" src="https://th.bing.com/th/id/Rd4f8571bfe0d2e805df807553b90c3ed?rik=TtDUxwZhZXR0MQ&pid=ImgRaw" />
 </a>
-<a href="https://discord.gg/rcHmeyYj/">
+<a href="https://discord.com/crisler-wintler#8879">
   <img align="left" alt="crislerwin" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
