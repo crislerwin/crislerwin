@@ -20,7 +20,7 @@
 Hi, I'm Crisler Wintler, a passionate self-taught Developer from Brazil.
 
 - 👨‍🎓  I’m currently graduating in systems analysis and development
-- 🔭 I’m currently working on my projects to create a portfolio
+- 🔭 I’m currently working as a freelancer
 - 🌱 I’m currently learning Typescript, Docker and Azure.
 - 💬 Ask me about anything [here](https://github.com/crislerwin/crislerwin/issues/)
 
