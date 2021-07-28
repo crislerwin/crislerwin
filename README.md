@@ -1,4 +1,4 @@
-### Hello there, I'm [**Crisler Wintler!**](https://www.crisler.tech) 👋
+## [**Crisler Wintler**](https://www.crisler.tech) 🐱‍💻
 
 <br/>
 <hr>
@@ -12,7 +12,11 @@
 <br />
 <br />
 
-Hi, I'm Crisler, an passionate self-taught Developer from Brazil.
+### Hey you who are hiring for a developer!
+
+### I'm _**Crisler**_, an passionate self-taught Web Developer from **Brazil**.
+
+<br/>
 
 - 👨‍🎓 I’m currently graduating in systems analysis and development
 - 🌱 I’m currently learning about microservices and cloud computing.
