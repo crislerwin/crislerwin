@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/crisler-wintler-550488202/">
-  <img align="left" alt="crislerwin" width="21px" src="https://th.bing.com/th/id/Rc3fcc390427d68b89647e834adf7fc87?rik=KjgxDpSgaFnXKA&pid=ImgRaw" />
+ 
 </a>
 
 <br />
@@ -19,12 +19,11 @@
 
 Hi, I'm Crisler Wintler, a passionate self-taught Developer from Brazil.
 
-- 👨‍🎓  I’m currently graduating in systems analysis and development
-- 🔭 I’m currently working as a freelancer
-- 🌱 I’m currently learning microservices
+- 👨‍🎓 I’m currently graduating in systems analysis and development
+- 🌱 I’m currently learning about microservices and cloud computing.
 - 💬 Ask me about anything [here](https://github.com/crislerwin/crislerwin/issues/)
-
-**Languages and Tools:**
+  <img align="left" alt="crislerwin" width="21px" src="https://th.bing.com/th/id/Rc3fcc390427d68b89647e834adf7fc87?rik=KjgxDpSgaFnXKA&pid=ImgRaw" />
+  **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -38,14 +37,19 @@ Hi, I'm Crisler Wintler, a passionate self-taught Developer from Brazil.
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages O have the most code on github, it's a new feature of [github-readme-stats](https://github-readme-stats.vercel.app/api?username=crislerwin)_
 
 <a href="https://github.com/crislerwin/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crislerwin&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Crisler github stats" />
-</a>
-<a href="https://github.com/crislerwin/github-readme-stats">
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crislerwin&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Crisler github stats" />   
+  <hr>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crislerwin&layout=compact&theme=material-palenight" />
+</a>
+<hr>
+
+<a href="https://github.com/crislerwin/github-readme-stats">
+ <img align="center" src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" />
+<hr>
+
 </a>
 
 <a href="https://github.com/crislerwin/crisler.tech">
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=crislerwin&repo=crisler.tech&theme=material-palenight" />
 </a>
+"
