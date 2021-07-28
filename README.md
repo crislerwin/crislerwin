@@ -45,11 +45,9 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <a href="https://github.com/crislerwin/github-readme-stats">
  <img align="center" src="https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif" />
-<hr>
 
 </a>
 
 <a href="https://github.com/crislerwin/crisler.tech">
 
 </a>
-"
