@@ -1,7 +1,6 @@
 ## [**Crisler Wintler**](https://www.crisler.tech) 🐱‍💻
 
 <br/>
-<hr>
 
 ![](https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif)
 
