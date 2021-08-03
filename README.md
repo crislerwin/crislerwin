@@ -5,17 +5,7 @@
 ![](https://media.giphy.com/media/KA593kO0JvXMs/giphy.gif)
 
 <a href="https://www.linkedin.com/in/crisler-wintler-550488202/">
- 
-</a>
 
-<br />
-<br />
-
-### Hey you who are hiring for a developer!
-
-### I'm _**Crisler**_, an passionate self-taught Web Developer from **Brazil**.
-
-<br/>
 
 - 👨‍🎓 I’m currently graduating in systems analysis and development
 - 🌱 I’m currently learning about microservices and cloud computing.
