@@ -1,9 +1,8 @@
-<span align="left">My name is Crisler Wintler and I have been learning about infrastructure, webdesign and development since 2020. <br/>
-
- Actually I have spending much time with Javascript, Typescript, React and Nextjs and styling with Sass and Styled-Components
+<span align="left">Hello! My name is Crisler Wintler, and since 2020, I have been delving into the world of infrastructure, web design, and development. 
   <br /> 
-
-  I particularly value code quality, continuous improvement and following best coding practices as much as possible. 
+ I have been primarily focused on sharpening my skills with Javascript, Typescript, React, and Nextjs. Additionally, I have experience in styling with Sass and Styled-Components.
+<br/>
+ As a developer, I place high value on code quality, continuous improvement, and adhering to best coding practices. I believe that writing clean, efficient code is essential for achieving successful outcomes. With this mindset, I am committed to always seeking out new ways to enhance my abilities and develop my craft.
 </span>
 
 
