@@ -24,10 +24,7 @@
     <img height="50" width="50" alt="sass" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/sass.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
    <img height="50" width="50" alt="styled" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/styled-components.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="50" width="50" alt="material-ui" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/material-ui.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
+     <img height="50" width="50" alt="go" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/go.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" width="50" alt="postgresql" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/postgresql.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-
-   
-   
-   
 </div>
   
