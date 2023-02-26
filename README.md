@@ -8,7 +8,6 @@
   I particularly value code quality, continuous improvement and following best coding practices as much as possible. 
 </span>
 
-[![w3bdesign's Github activity graph](https://activity-graph.herokuapp.com/graph?username=crislerwin&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)](https://github.com/crislerwin)
 
 
   <a href="https://github.com/crislerwin">
