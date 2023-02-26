@@ -1,5 +1,3 @@
-<h1 align="center"><img src="svg/animated-header.svg"/></h1>
-
 <span align="left">My name is Crisler Wintler and I have been learning about infrastructure, webdesign and development since 2020. <br/>
 
  Actually I have spending much time with Javascript, Typescript, React and Nextjs and styling with Sass and Styled-Components
