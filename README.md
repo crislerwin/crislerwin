@@ -6,7 +6,7 @@
 <div>
 <br/>
 </div>
-<div style="display: inline_block">
+<!-- <div style="display: inline_block">
 <img height="50" width="50" alt="Javascript" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/javascript.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" width="50" alt="Typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/typescript.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" width="50" alt="nextjs" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/next-dot-js.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -18,5 +18,5 @@
     <img height="50" width="50" alt="material-ui" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/material-ui.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
      <img height="50" width="50" alt="go" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/go.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" width="50" alt="postgresql" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/postgresql.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-</div>
+</div> -->
   
