@@ -1,4 +1,10 @@
 ## Hello! I'm Crisler Wintler 👋 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=crislerwin&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crislerwin&layout=compact&langs_count=7&"/>
+<a href="https://star-history.com/#Xe/olin&Xe/x&Xe/when-then-zen&Xe/xess&Timeline">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Xe/olin,Xe/x,Xe/when-then-zen,Xe/xess&type=Timeline&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Xe/olin,Xe/x,Xe/when-then-zen,Xe/xess&type=Timeline" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Xe/olin,Xe/x,Xe/when-then-zen,Xe/xess&type=Timeline" />
+  </picture>
+</a>
+
