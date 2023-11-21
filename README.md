@@ -1,10 +1,2 @@
 ## Hello! I'm Crisler Wintler 👋 
-
-
-<a href="https://star-history.com/#Xe/site&Xe/olin&Xe/x&Xe/when-then-zen&Xe/xess&Timeline">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Xe/site,Xe/olin,Xe/x,Xe/when-then-zen,Xe/xess&type=Timeline&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Xe/site,Xe/olin,Xe/x,Xe/when-then-zen,Xe/xess&type=Timeline" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Xe/site,Xe/olin,Xe/x,Xe/when-then-zen,Xe/xess&type=Timeline" />
-  </picture>
-</a>
+[![Crisler's GitHub stats](https://github-readme-stats.vercel.app/api?username=crislerwin)](https://github.com/anuraghazra/github-readme-stats)
