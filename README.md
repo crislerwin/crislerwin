@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=crislerwin)](https://git.io/streak-stats)
+
 <h1 align="center">👋 Hi there, I'm Crisler Wintler!</h1>
 
 <p align="center">.</p>
