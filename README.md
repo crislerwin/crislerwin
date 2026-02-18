@@ -1,4 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=crislerwin)](https://git.io/streak-stats)
 
 <h1 align="center">👋 Hi there, I'm Crisler Wintler!</h1>
 
@@ -7,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/crislerwin/crislerwin/issues">💬 Ask me anything</a> |
   <a href="https://discordapp.com/users/411472687022604299">🎮 Connect with me on Discord</a> |
-  <a href="https://crislerwintler-crislerwintler1.vercel.app/en">🌐 Explore My Website</a>
+  <a href="https://crislerwintler.craftlab.cloud">🌐 Explore My Website</a>
 </p>
 
 <p align="center">
@@ -24,5 +23,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=crislerwin&show_icons=true&theme=radical" alt="Crislers's GitHub Stats" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=crislerwin" alt="Crislers's GitHub Streaks" />
 </p>
